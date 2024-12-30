@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ece universal themed hugo site'
+theme = 'hugo-universal-theme'
